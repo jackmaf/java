@@ -1,9 +1,10 @@
-// JAVA
+# JAVA
 
-// Declaracion
-int manzanas;
-String nombre;
-
+## Declaraciones en java
+  ```java
+    int manzanas;
+    String nombre;
+  ```
 // Asignacion
 manzanas = 10;
 nombre = "jack";
